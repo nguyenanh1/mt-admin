@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#2C8A48</color>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_tool_bar">#00000000</color>
+    <color name="color_text_yellow">#FDF13A</color>
+    <color name="color_black">#000000</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_bottom_bar">#01113C</color>
+    <color name="color_bottom_bar_active">#2F74E6</color>
+
+    <color name="color_snack_bar">#FFFF0000</color>
+    <color name="color_text_snack_bar">#ffffff</color>
+    <color name="color_red">#e7261d</color>
+    <color name="color_slide">#cccccc</color>
+    <color name="color_layout_expended">#F0F0F0</color>
+    <color name="lite_blue">#ff359ff2</color>
+
+    <color name="color_background_item">#041650</color>
+    <color name="color_text_hint">#9e948b</color>
+    <color name="color_text_orange">#FF9626</color>
+
+    <color name="color_background_spinner">#041650</color>
+
+    <color name="color_background_radio_check">#FF9626</color>
+    <color name="color_background_radio_uncheck">#010C21</color>
+    <color name="text_color_radio_check">#09229C</color>
+    <color name="color_top_2">#EFEFEF</color>
+    <color name="color_top_1">#FFA927</color>
+    <color name="color_top_3">#CE7419</color>
+
+    <color name="color_border_history">#39707070</color>
+    <color name="color_title">#FF9626</color>
+
+    <color name="color_title_menu">#030303</color>
+    <color name="color_red_main">#A72B36</color>
+    <color name="color_text">#bab9b7</color>
+    <color name="color_bg">#dbd7cc</color>
+    <color name="color_text_title_register">#968c80</color>
+
+    <color name="color_c_red">#F51414</color>
+    <color name="color_c_organe">#FF9800</color>
+    <color name="color_c_yellow">#FFEB3B</color>
+    <color name="color_c_p">#4FC91A</color>
+    <color name="color_seat_default">#B99E9E</color>
+    <color name="color_seat_vip">#E91E63</color>
+    <color name="color_seat_booked">#54DF3C</color>
+    <color name="color_seat_choose">#2196F3</color>
+</resources>
